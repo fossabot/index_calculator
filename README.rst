@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fludwiglierhammer%2Findex_calculator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fludwiglierhammer%2Findex_calculator?ref=badge_shield)
+
 ============================================================================================
 Calculate climate indicators with standardized project-specific attributes: index_calculator
 ============================================================================================
@@ -126,3 +128,6 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 .. |zenodo| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.7762679.svg
         :target: https://doi.org/10.5281/zenodo.7762679
  	:alt:   DOI
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fludwiglierhammer%2Findex_calculator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fludwiglierhammer%2Findex_calculator?ref=badge_large)
